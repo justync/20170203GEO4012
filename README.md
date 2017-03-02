@@ -1,4 +1,8 @@
-# 20170203GEO4012
+# Justyna Czekirda
+
+I am studying at UiO.
+
+
 ## (.md=> markdown format)
 ####### created 02.03.2017
 
